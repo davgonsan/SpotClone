@@ -31,7 +31,7 @@ Este repositorio contiene un clon del popular servicio de música Spotify constr
    `bunx --bun astro dev` (Para Mac OS)
    `bunx astro dev` (Para Linux y Windows)
 
-Visita `http://localhost:3000` (o localhost:4321 como en mi caso) en tu navegador para ver la aplicación en funcionamiento.
+Visita `http://localhost:3000` (o `http://localhost:4321` como en mi caso) en tu navegador para ver la aplicación en funcionamiento.
 
 ## Contribuciones
 
