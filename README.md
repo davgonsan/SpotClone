@@ -22,7 +22,7 @@ Este repositorio contiene un clon del popular servicio de música Spotify constr
    `git clone https://github.com/davgonsan/SpotClone.git`
 
 2. Navega a la carpeta del proyecto:
-   `cd spotify-astro-clone`
+   `cd SpotClone`
 
 3. Instala las dependencias:
    `bun install`
